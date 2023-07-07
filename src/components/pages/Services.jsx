@@ -1,0 +1,15 @@
+import React from 'react'
+
+export const Services = () => {
+  return (
+    <>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum maxime natus at numquam atque libero quasi corrupti maiores eius ex dicta quae distinctio ipsam dolorum, earum delectus, consequatur consequuntur tempora cum! Dignissimos deleniti obcaecati minus nostrum in, pariatur veritatis, vero inventore maxime dicta cupiditate alias accusamus sed omnis. Culpa, ullam fugiat, vel debitis nam ipsum corrupti sint molestiae quam voluptate consectetur distinctio quidem temporibus! Totam voluptatum, ipsam a porro incidunt facilis! Doloribus et inventore cupiditate quos dolore similique dignissimos. Impedit, incidunt obcaecati totam facilis ad ipsa nisi dolore tempora voluptas similique eos ex. Maiores id, a quasi voluptatum qui quibusdam?</div> <br />
+
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum maxime natus at numquam atque libero quasi corrupti maiores eius ex dicta quae distinctio ipsam dolorum, earum delectus, consequatur consequuntur tempora cum! Dignissimos deleniti obcaecati minus nostrum in, pariatur veritatis, vero inventore maxime dicta cupiditate alias accusamus sed omnis. Culpa, ullam fugiat, vel debitis nam ipsum corrupti sint molestiae quam voluptate consectetur distinctio quidem temporibus! Totam voluptatum, ipsam a porro incidunt facilis! Doloribus et inventore cupiditate quos dolore similique dignissimos. Impedit, incidunt obcaecati totam facilis ad ipsa nisi dolore tempora voluptas similique eos ex. Maiores id, a quasi voluptatum qui quibusdam?</div> <br />
+
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum maxime natus at numquam atque libero quasi corrupti maiores eius ex dicta quae distinctio ipsam dolorum, earum delectus, consequatur consequuntur tempora cum! Dignissimos deleniti obcaecati minus nostrum in, pariatur veritatis, vero inventore maxime dicta cupiditate alias accusamus sed omnis. Culpa, ullam fugiat, vel debitis nam ipsum corrupti sint molestiae quam voluptate consectetur distinctio quidem temporibus! Totam voluptatum, ipsam a porro incidunt facilis! Doloribus et inventore cupiditate quos dolore similique dignissimos. Impedit, incidunt obcaecati totam facilis ad ipsa nisi dolore tempora voluptas similique eos ex. Maiores id, a quasi voluptatum qui quibusdam?</div> <br />
+
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum maxime natus at numquam atque libero quasi corrupti maiores eius ex dicta quae distinctio ipsam dolorum, earum delectus, consequatur consequuntur tempora cum! Dignissimos deleniti obcaecati minus nostrum in, pariatur veritatis, vero inventore maxime dicta cupiditate alias accusamus sed omnis. Culpa, ullam fugiat, vel debitis nam ipsum corrupti sint molestiae quam voluptate consectetur distinctio quidem temporibus! Totam voluptatum, ipsam a porro incidunt facilis! Doloribus et inventore cupiditate quos dolore similique dignissimos. Impedit, incidunt obcaecati totam facilis ad ipsa nisi dolore tempora voluptas similique eos ex. Maiores id, a quasi voluptatum qui quibusdam?</div> <br />
+    </>
+  )
+}
